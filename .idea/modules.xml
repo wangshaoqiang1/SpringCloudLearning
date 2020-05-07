@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/eureka-client/eureka-client.iml" filepath="$PROJECT_DIR$/eureka-client/eureka-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/eureka-server/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice-cloud-02-api/microservice-cloud-02-api.iml" filepath="$PROJECT_DIR$/microservice-cloud-02-api/microservice-cloud-02-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice-cloud-03-provider-8001/microservice-cloud-03-provider-8001.iml" filepath="$PROJECT_DIR$/microservice-cloud-03-provider-8001/microservice-cloud-03-provider-8001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microserviceparent-cloud-01/microserviceparent-cloud-01.iml" filepath="$PROJECT_DIR$/microserviceparent-cloud-01/microserviceparent-cloud-01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-ribbon/service-ribbon.iml" filepath="$PROJECT_DIR$/service-ribbon/service-ribbon.iml" />
+    </modules>
+  </component>
+</project>
