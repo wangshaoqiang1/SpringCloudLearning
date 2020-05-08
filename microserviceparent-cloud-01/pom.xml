@@ -13,6 +13,8 @@
         <module>../eureka-server</module>
         <module>../eureka-client</module>
         <module>../service-ribbon</module>
+        <module>../service-fegin</module>
+        <module>../service-zuul</module>
     </modules>
 
     <packaging>pom</packaging>
@@ -28,7 +30,9 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <java.version>1.8</java.version>
-        <spring-cloud.version>Finchley.SR2</spring-cloud.version>
+<!--        <spring-cloud.version>Finchley.SR2</spring-cloud.version>-->
+        <spring-cloud.version>Greenwich.RELEASE</spring-cloud.version>
+
     </properties>
 
     <dependencies>
